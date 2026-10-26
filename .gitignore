@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+backend/.venv/
+backend/.env
+backend/data/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+*.doc
+*.docx
+*.rar
+*.zip
